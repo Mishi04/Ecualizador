@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ecualizador</string>
+    <string name="tab_biblioteca">Biblioteca</string>
+    <string name="tab_reproductor">Reproductor</string>
+    <string name="tab_ecualizador">Ecualizador</string>
+</resources>
